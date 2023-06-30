@@ -1,6 +1,9 @@
 # FlowerTailors
-Проектот се стратува на следниов начин
 Link до хостирана верзија: https://ilievskajoana.pythonanywhere.com/
+
+
+Проектот се стратува на следниов начин
+
 GitHub изворен код:  https://github.com/JoanaIlievska/FlowerTailors
 1. Клонирање на репозиторито
 2. Инсталација на потребните верзии на Django и Pillow :
